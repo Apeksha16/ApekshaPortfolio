@@ -39,8 +39,8 @@
                 ],
                 "category": "React",
                 "image": "/images/projects/tictactoe.png",
-                "liveLink": "",
-                "githubLink": ""
+                "liveLink": "https://tic-tac-toe-pink-delta.vercel.app/",
+                "githubLink": "https://github.com/Apeksha16/Tic-Tac-Toe"
             },
             {
                 "title": "Quizify: Quiz Maker App",
@@ -53,8 +53,8 @@
                 ],
                 "category": "React",
                 "image": "/images/projects/quizyfy.png",
-                "liveLink": "",
-                "githubLink": ""
+                "liveLink": "https://quiz-app-eta-azure.vercel.app/",
+                "githubLink": "https://github.com/Apeksha16/Quiz-App"
             },
             {
                 "title": "Trafalgar Healthcare Website",
@@ -66,8 +66,8 @@
                 ],
                 "category": "Static",
                 "image": "/images/projects/trafalgar.png",
-                "liveLink": "",
-                "githubLink": ""
+                "liveLink": "https://trafalgar-brb2py559-apeksha16s-projects.vercel.app/",
+                "githubLink": "https://github.com/Apeksha16/TRAFALGAR"
             },
             {
                 "title": "Pharmacy Website",
@@ -79,8 +79,8 @@
                 ],
                 "category": "Static",
                 "image": "/images/projects/pharmacy.png",
-                "liveLink": "",
-                "githubLink": ""
+                "liveLink": "https://ali-hassan-pharmacy.vercel.app/",
+                "githubLink": "https://github.com/Apeksha16/AliHassan-Pharmacy"
             },
             {
                 "title": "BizForge Website",
@@ -93,7 +93,7 @@
                 "category": "Static",
                 "image": "/images/projects/bizforge.png",
                 "liveLink": "",
-                "githubLink": ""
+                "githubLink": "https://github.com/Apeksha16/Bizforge---Flex"
             }
         ],
         "about": {

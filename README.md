@@ -1,6 +1,6 @@
 # Apeksha Verma’s Portfolio Website
 
-![Portfolio Preview](https://apeksha-verma.me/images/og-image.png)
+![Portfolio Preview](https://apekshaverma.com/images/og-image.png)
 
 A modern, single-page portfolio website built with **Next.js** and **Tailwind CSS**, showcasing my skills, projects, and journey as a passionate front-end and software developer. This project is designed for easy customization via a data.json file, allowing anyone to adapt it by simply updating their own data.
 
@@ -138,4 +138,4 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 -   **Name**: Apeksha Verma
 -   **Email**: <av.apekshaverma@gmail.com>
 -   **GitHub**: [github.com/Apeksha16](https://github.com/Apeksha16)
--   **Portfolio**: [apeksha-verma.me](https://apeksha-verma.me)
+-   **Portfolio**: [apeksha-verma.me](https://apekshaverma.com)

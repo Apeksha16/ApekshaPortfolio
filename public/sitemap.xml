@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://apeksha-verma.me/</loc>
+    <loc>https://apekshaverma.com/</loc>
     <lastmod>2025-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -12,32 +12,32 @@
     </image:image>
   </url>
   <url>
-    <loc>https://apeksha-verma.me/projects</loc>
+    <loc>https://apekshaverma.com/projects</loc>
     <lastmod>2025-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://apeksha-verma.me/images/projects/tictactoe.png</image:loc>
+      <image:loc>https://apekshaverma.com/images/projects/tictactoe.png</image:loc>
       <image:caption>TicTacToe Game by Apeksha Verma - React Project</image:caption>
       <image:title>TicTacToe Game Project Image</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://apeksha-verma.me/images/projects/quizify.png</image:loc>
+      <image:loc>https://apekshaverma.com/images/projects/quizify.png</image:loc>
       <image:caption>Quizify: Quiz Maker App by Apeksha Verma - React Project</image:caption>
       <image:title>Quizify Project Image</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://apeksha-verma.me/images/projects/trafalgar.png</image:loc>
+      <image:loc>https://apekshaverma.com/images/projects/trafalgar.png</image:loc>
       <image:caption>Trafalgar Healthcare Website by Apeksha Verma - HTML & CSS Project</image:caption>
       <image:title>Trafalgar Healthcare Website Project Image</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://apeksha-verma.me/images/projects/pharmacy.png</image:loc>
+      <image:loc>https://apekshaverma.com/images/projects/pharmacy.png</image:loc>
       <image:caption>Pharmacy Website by Apeksha Verma - HTML & CSS Project</image:caption>
       <image:title>Pharmacy Website Project Image</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://apeksha-verma.me/images/projects/bizforge.png</image:loc>
+      <image:loc>https://apekshaverma.com/images/projects/bizforge.png</image:loc>
       <image:caption>BizForge Website by Apeksha Verma - Business Static Website</image:caption>
       <image:title>BizForge Website Project Image</image:title>
     </image:image>

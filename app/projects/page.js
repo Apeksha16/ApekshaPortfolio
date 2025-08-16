@@ -5,15 +5,15 @@ import data from '@/data/data.json';
 export const metadata = {
     title: 'Projects | Apeksha Verma - Front End Developer',
     description:
-        'Explore all projects by Apeksha Verma, a Front End developer. Categories include Full Stack, React, Next.js, Blockchain, and more.',
+        'Explore all projects by Apeksha Verma, a Front End developer. Categories include Full Stack, React, Next.js, Front End, and more.',
     openGraph: {
         title: 'Projects | Apeksha Verma - Front End Developer',
         description:
-            'Explore all projects by Apeksha Verma, a full-stack web developer. Categories include Full Stack, React, Next.js, Blockchain, and more.',
-        url: 'https://apeksha-verma.me/projects',
+            'Explore all projects by Apeksha Verma, a Front End developer. Categories include Full Stack, React, Next.js, Front End, and more.',
+        url: 'https://apekshaverma.com/projects',
         images: [
             {
-                url: 'https://apeksha-verma.me/images/og-image-projects.png',
+                url: 'https://apekshaverma.com/images/og-image-projects.png',
                 width: 1200,
                 height: 630,
                 alt: 'Apeksha Verma Projects Preview',
@@ -21,7 +21,7 @@ export const metadata = {
         ],
     },
     alternates: {
-        canonical: 'https://apeksha-verma.me/projects',
+        canonical: 'https://apekshaverma.com/projects',
     },
 };
 
@@ -40,12 +40,12 @@ export default function ProjectsPage() {
                             projects.map((project) => ({
                                 '@context': 'https://schema.org',
                                 '@type': 'ImageObject',
-                                url: `https://apeksha-verma.me${project.image}`,
+                                url: `https://apekshaverma.com${project.image}`,
                                 name: `${project.title} Project Image`,
                                 caption: `${project.title} by Apeksha Verma - ${project.category} Project`,
                                 associatedMedia: {
                                     '@type': 'WebPage',
-                                    url: 'https://apeksha-verma.me/projects',
+                                    url: 'https://apekshaverma.com/projects',
                                 },
                             }))
                         ),

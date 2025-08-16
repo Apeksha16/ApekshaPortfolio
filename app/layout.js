@@ -18,23 +18,24 @@ export const viewport = {
 }
 
 export const metadata = {
-  title: 'Apeksha Verma | Full-Stack Web Developer Portfolio',
+  title: 'Apeksha Verma | Front End Developer Portfolio',
   description:
-    'Apeksha Verma is a full-stack web developer and software developer based in Toronto, Canada. Explore my portfolio, skills, and projects in web development and blockchain.',
+    'Apeksha a Front-end developer, software engineer, and SQL Server DBA. Passionate about crafting seamless web experiences, robust applications, and optimized databases.',
   keywords: [
     'Apeksha Verma',
-    'software developer',
-    'full-stack developer',
-    'web developer Toronto',
-    'blockchain development',
+    'Software developer',
+    'Full-stack developer',
+    'Web developer',
     'MERN stack',
     'portfolio',
-    'York University',
-    'Computer Science'
+    'Computer Science',
+    'React developer',
+    'UI Developer',
+    'Front End Developer',
   ],
   authors: [{ name: 'Apeksha Verma' }],
   alternates: {
-    canonical: 'https://apeksha-verma.me/',
+    canonical: 'https://apekshaverma.com/',
   },
   appleWebApp: {
     title: "Apeksha-Verma-Portfolio"
@@ -42,18 +43,18 @@ export const metadata = {
   openGraph: {
     title: 'Apeksha Verma | Full-Stack Web Developer Portfolio',
     description:
-      'Explore Apeksha Verma’s portfolio, showcasing skills and projects in full-stack web development and blockchain.',
-    url: 'https://apeksha-verma.me',
+      'Explore Apeksha Verma’s portfolio, showcasing skills and projects in front end development.',
+    url: 'https://apekshaverma.com',
     siteName: 'Apeksha Verma Portfolio',
     images: [
       {
-        url: 'https://apeksha-verma.me/images/og-image.png',
+        url: 'https://apekshaverma.com/images/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Apeksha Verma Portfolio Preview',
       },
     ],
-    logo: 'https://apeksha-verma.me/logo/logo.png',
+    logo: 'https://apekshaverma.com/logo/logo.png',
     locale: 'en_US',
     type: 'website',
   },
@@ -61,8 +62,8 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Apeksha Verma | Full-Stack Web Developer Portfolio',
     description:
-      'Explore Apeksha Verma’s portfolio, showcasing skills and projects in full-stack web development and blockchain.',
-    images: ['https://apeksha-verma.me/images/og-image.png'],
+      'Explore Apeksha Verma’s portfolio, showcasing skills and projects in front end development.',
+    images: ['https://apekshaverma.com/images/og-image.png'],
   },
   robots: {
     index: true,
@@ -96,7 +97,7 @@ export default function RootLayout({ children }) {
                   addressRegion: 'ON',
                   addressCountry: 'Canada',
                 },
-                url: 'https://apeksha-verma.me',
+                url: 'https://apekshaverma.com',
                 sameAs: [
                   'https://github.com/Apeksha16',
                   'https://www.linkedin.com/in/itsapeksha16/',
@@ -104,11 +105,11 @@ export default function RootLayout({ children }) {
                   'https://apeksha-verma.vercel.app/'
                 ],
                 description:
-                  'Apeksha Verma is a full-stack web developer based in Toronto, Canada, specializing in MERN stack, Python, Java, and blockchain development.',
+    'Apeksha a Front-end developer, software engineer, and SQL Server DBA. Passionate about crafting seamless web experiences, robust applications, and optimized databases.',
                 image: {
                   '@type': 'ImageObject',
                   url: '/Apeksha Portfolio/portfolio-v2/app/apeksha.HEIC',
-                  caption: 'Headshot of Apeksha Verma, a full-stack web developer',
+                  caption: 'Headshot of Apeksha Verma, a front end developer',
                 },
               },
               {
@@ -116,17 +117,17 @@ export default function RootLayout({ children }) {
                 '@type': 'VideoObject',
                 name: 'Apeksha Verma Portfolio Background Video',
                 description:
-                  'A background video showcasing Apeksha Verma’s portfolio, highlighting skills and projects in full-stack web development and blockchain.',
-                thumbnailUrl: 'https://apeksha-verma.me/background/bg.png',
-                contentUrl: 'https://apeksha-verma.me/background/bg-video.mp4',
+                  'A background video showcasing Apeksha Verma’s portfolio, highlighting skills and projects in front end development.',
+                thumbnailUrl: 'https://apekshaverma.com/background/bg.png',
+                contentUrl: 'https://apekshaverma.com/background/bg-video.mp4',
                 uploadDate: '2025-04-05',
                 duration: 'PT15S',
-                embedUrl: 'https://apeksha-verma.me',
+                embedUrl: 'https://apekshaverma.com',
               },
             ]),
           }}
         />
-        <meta property="og:logo" content="https://apeksha-verma.me/logo/logo.png"></meta>
+        <meta property="og:logo" content="https://apekshaverma.com/logo/logo.png"></meta>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased `} suppressHydrationWarning

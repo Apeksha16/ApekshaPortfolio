@@ -1,0 +1,117 @@
+{
+    "data": {
+        "fullName": "Apeksha Verma",
+        "navtext": "Apeksha Verma",
+        "email": "av.apekshaverma@gmail.com",
+        "titleArray": [
+            "Front End Developer",
+            "Software Developer",
+            "SQL SERVER DBA",
+            "Cloud Support Engineer"
+        ],
+        "resumeLink": "https://drive.google.com/file/d/18JpmXrHwWxmo0LNa85pozIXOLCGqpzWM/view?usp=sharing",
+        "skills": [
+            "/icons/JavaScript.png",
+            "/icons/React.png",
+            "/icons/Tailwind.png",
+            "/icons/Bootstrap.png",
+            "/icons/Typescript.png",
+            "/icons/Nodejs.png",
+            "/icons/ExpressJs.png",
+            "/icons/MongoDB.png",
+            "/icons/MySQL.png",
+            "/icons/Git.png",
+            "/icons/Figma.png",
+            "/icons/Illustrator.png",
+            "/icons/SSMS.png",
+            "/icons/ExchangeOnline.png",
+            "/icons/Azure.png"
+        ],
+        "projects": [
+            {
+                "title": "TicTacToe Game",
+                "type": "Web Game",
+                "description": "An interactive multiplayer TicTacToe game built in React.js with component-based structure and game state handling.",
+                "techStack": [
+                    "React.js",
+                    "JavaScript",
+                    "CSS"
+                ],
+                "category": "React",
+                "image": "/images/projects/tictactoe.png",
+                "liveLink": "",
+                "githubLink": ""
+            },
+            {
+                "title": "Quizify: Quiz Maker App",
+                "type": "Quiz Platform",
+                "description": "A customizable quiz creation and playing platform developed in React.js with real-time interactivity.",
+                "techStack": [
+                    "React.js",
+                    "JavaScript",
+                    "CSS"
+                ],
+                "category": "React",
+                "image": "/images/projects/quizyfy.png",
+                "liveLink": "",
+                "githubLink": ""
+            },
+            {
+                "title": "Trafalgar Healthcare Website",
+                "type": "Static Website",
+                "description": "A fully responsive static healthcare website designed in HTML and CSS with a professional and modern look.",
+                "techStack": [
+                    "HTML",
+                    "CSS"
+                ],
+                "category": "Static",
+                "image": "/images/projects/trafalgar.png",
+                "liveLink": "",
+                "githubLink": ""
+            },
+            {
+                "title": "Pharmacy Website",
+                "type": "Static Website",
+                "description": "A responsive pharmacy website highlighting products and services using HTML and CSS.",
+                "techStack": [
+                    "HTML",
+                    "CSS"
+                ],
+                "category": "Static",
+                "image": "/images/projects/pharmacy.png",
+                "liveLink": "",
+                "githubLink": ""
+            },
+            {
+                "title": "BizForge Website",
+                "type": "Static Website",
+                "description": "A sleek, responsive business-focused static website created with HTML and CSS.",
+                "techStack": [
+                    "HTML",
+                    "CSS"
+                ],
+                "category": "Static",
+                "image": "/images/projects/bizforge.png",
+                "liveLink": "",
+                "githubLink": ""
+            }
+        ],
+        "about": {
+            "main": "I’m Apeksha Verma, a passionate Front-End Developer and Software Developer. With 4 years of experience in crafting responsive web applications and optimizing databases, I blend design precision with technical expertise to deliver seamless digital experiences.",
+            "skills": [
+                "Full Stack Development",
+                "Software Development",
+                "SQL Server DBA"
+            ],
+            "journey": "B.C.A. graduate from Invertis University, currently pursuing an M.C.A. at Chandigarh University. I blend front-end development and software engineering to craft innovative, user-focused solutions.",
+            "passion": "Over the past few years, I’ve immersed myself in front-end development and software engineering, creating scalable solutions and solving real-world challenges. I’m driven by the goal of making a meaningful impact through technology.",
+            "connect": "Explore my portfolio and let’s connect for collaborations!"
+        },
+        "socialLinks": {
+            "github": "https://github.com/Apeksha16",
+            "linkedin": "https://www.linkedin.com/in/itsapeksha16/",
+            "medium": "",
+            "instagram": "https://www.instagram.com/itsapeksha16/"
+        }
+    }
+}
